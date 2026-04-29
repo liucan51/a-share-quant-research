@@ -23,6 +23,20 @@ AI Agent 协作链路包含长链推理和多 Agent 分工：
 
 每次迭代都经过需求拆解、Agent 执行、测试验证、构建检查和审计复盘。目前项目已包含约 90 个 Python 源码文件、约 16 个 React/TypeScript 组件、100+ 条测试用例，形成了从数据到研究、从回测到前端交互、从本地执行到远程指令闭环的 AI 驱动开发成果。
 
-## Demo Video
+## 系统截图
 
-[下载演示视频](https://github.com/liucan51/a-share-quant-research/releases/download/demo-v1/demo_no_audio.mp4)
+<table>
+  <tr>
+    <td align="center"><img src="images/量化1.png" alt="系统主界面" width="100%"/><br/>系统主界面</td>
+    <td align="center"><img src="images/量化2.png" alt="选股结果" width="100%"/><br/>选股结果</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="images/量化3.png" alt="策略回测" width="100%"/><br/>策略回测</td>
+    <td align="center"><img src="images/量化4.png" alt="数据面板" width="100%"/><br/>数据面板</td>
+  </tr>
+</table>
+
+## 演示视频
+
+- [在线观看](https://github.com/liucan51/a-share-quant-research/releases/tag/demo-v1)
+- [下载视频](https://github.com/liucan51/a-share-quant-research/releases/download/demo-v1/demo_no_audio.mp4)

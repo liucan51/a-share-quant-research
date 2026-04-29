@@ -38,4 +38,5 @@ AI Agent 协作链路包含长链推理和多 Agent 分工：
 
 ## 演示视频
 
-[下载演示视频](https://github.com/liucan51/a-share-quant-research/releases/download/demo-v1/demo_no_audio.mp4)
+- [在线观看（飞书）](https://mx6yigp1yfm.feishu.cn/file/JavUbJb31ovPtbxm1lPcvE4HnNb)
+- [下载原版视频](https://github.com/liucan51/a-share-quant-research/releases/download/demo-v1/demo_no_audio.mp4)
